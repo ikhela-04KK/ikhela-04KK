@@ -1,4 +1,6 @@
+ ![Header](header.png)
 <h1 align="center">Hi 👋, I'm ikhela-04KK</h1>
+
 <h3 align="center">🤔 Qu'est-ce que tu penses de la programmation, les lignes de code... Ça a sauvé ma vie ! C'est mon seul refuge quand ce monde devient trop stressant, humiliant... À partir de là, on comprend que "Choisir sa passion, c’est choisir sa vie". Je suis Koffi Kan Marc, étudiant en licence 3, et je suis né pour dévorer des lignes de code, assimiler des packages, briser des frameworks... Car ce sont les seules façons d'exprimer mon art. 🖥️💻📦🔨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhela-04kk&label=Profile%20views&color=0e75b6&style=flat" alt="ikhela-04kk" /> </p>
