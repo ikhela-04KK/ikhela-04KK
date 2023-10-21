@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    333k added, 41.3k removed
+                                    8.75m added, 129k removed
                                 </div>
                             </section>
                             <section>
@@ -625,7 +625,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">12e6afa8</span>
-                            <span class="code">server-express/dist/db/updataDb.js.map</span>
+                            <span class="code">server-express/dist/prisma/seed.js.map</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -636,14 +636,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"updataDb.js","sourceRoot":"","sources":["../../db/updataDb.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,qCAAwD;AACxD,MAAM,GAAG,GAAG,8FAA8F,CAAC;AAE3G,sFAAsF;AACtF,MAAM,MAAM,GAAG,IAAI,qBAAW,CAAC,GAAG,EAAE;IAClC,SAAS,EAAE;QACT,OAAO,EAAE,0BAAgB,CAAC,EAAE;QAC5B,MAAM,EAAE,IAAI;QACZ,iBAAiB,EAAE,IAAI;KACxB;CACF,CAAC,CAAC;AAEH,kBAAkB;AAClB,SAAe,MAAM,CAAC,MAAkB;;QACpC,IAAI;YACF,MAAM,MAAM,GAAG,MAAM;iBAClB,EAAE,CAAC,eAAe,CAAC;iBACnB,UAAU,CAAC,OAAO,CAAC;iBACnB,IAAI,EAAE,CAAC;YAEV,MAAM,OAAO,GAAG,MAAM,MAAM,CAAC,OAAO,EAAE,CAAC;YACvC,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,OAAO,CAAC,OAAO,CAAC,EAAE,CAAC,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC;SAE/D;QAAC,OAAO,KAAK,EAAE;YACd,OAAO,CAAC,KAAK,CAAC,kDAAkD,EAAE,KAAK,CAAC,CAAC;SAC1E;IACH,CAAC;CAAA;AACD,MAAM,CAAC,MAAM,CAAC,CAAC;AAEjB,uBAAuB;AAEvB,iBAAiB;AACjB,SAAS,aAAa;IAClB,OAAO,IAAI,CAAC,MAAM,EAAE,GAAG,GAAG,CAAC;AAC/B,CAAC;AAED,SAAe,YAAY,CAAE,MAAkB;;QAC3C,IAAI;YACA,MAAM,MAAM,GAAG,MAAM,MAAM;iBACtB,EAAE,CAAC,eAAe,CAAC;iBACnB,UAAU,CAAC,OAAO,CAAC;iBACnB,UAAU,CAAC,EAAE,EAAE,EAAC,IAAI,EAAC,EAAC,UAAU,EAAC,GAAE,EAAE;wBAClC,OAAO,IAAI,CAAC,MAAM,EAAE,GAAC,GAAG,CAAA;oBAC5B,CAAC,EAAC,EAAC,CAAC,CAAA;YACR,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,YAAY,CAAC,CAAC;YACjC,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,aAAa,CAAC,CAAC;SACrC;QAAC,OAAO,KAAK,EAAE;SAEf;IACL,CAAC;CAAA;AACD,YAAY,CAAC,MAAM,CAAC,CAAC"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"file":"seed.js","sourceRoot":"","sources":["../../prisma/seed.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,2CAA6C;AAC7C,MAAM,MAAM,GAAG,IAAI,qBAAY,EAAE,CAAC;AAClC,SAAe,IAAI;;QACjB,QAAQ;QACN,uEAAuE;QACvE,MAAM,MAAM,CAAC,KAAK,CAAC,MAAM,CAAC;YACxB,IAAI,EAAC;gBACH,KAAK,EAAC,2BAA2B;gBACjC,KAAK,EAAC,iBAAiB;gBACvB,GAAG,EAAC,SAAS;gBACb,QAAQ,EAAC,WAAW;gBACpB,KAAK,EAAC;oBACH;wBACC,UAAU,EAAC,gDAAgD;wBAC3D,IAAI,EAAC,IAAI,IAAI,EAAE;qBAChB;oBACD;wBACE,UAAU,EAAC,yCAAyC;wBACpD,IAAI,EAAC,IAAI,IAAI,EAAE;qBAChB;iBACF;gBACD,UAAU,EAAE,IAAI;aACnB;SACF,CAAC,CAAA;QACA,MAAM,YAAY,GAAG,MAAM,MAAM,CAAC,KAAK,CAAC,QAAQ,EAAE,CAAC;QACnD,OAAO,CAAC,GAAG,CAAC,YAAY,CAAC,CAAC;QAC1B,OAAO,CAAC,GAAG,CAAC,iCAAiC,CAAC,CAAC;IACjD,CAAC;CAAA;AACD,IAAI,EAAE;KACH,IAAI,CAAC,GAAS,EAAE;IACf,MAAM,MAAM,CAAC,WAAW,EAAE,CAAA;AAC5B,CAAC,CAAA,CAAC;KACD,KAAK,CAAC,CAAO,CAAC,EAAE,EAAE;IACjB,OAAO,CAAC,KAAK,CAAC,CAAC,CAAC,CAAA;IAChB,MAAM,MAAM,CAAC,WAAW,EAAE,CAAA;IAC1B,OAAO,CAAC,IAAI,CAAC,CAAC,CAAC,CAAA;AACjB,CAAC,CAAA,CAAC,CAAA;AACJ,IAAI,EAAE,CAAA"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 11:06:45 (timezone Atlantic/Reykjavik) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 12:14:01 (timezone Atlantic/Reykjavik) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
