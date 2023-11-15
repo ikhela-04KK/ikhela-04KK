@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1581" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1648" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.03m added, 150k removed
+                                    8.17m added, 146k removed
                                 </div>
                             </section>
                             <section>
@@ -628,9 +628,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">344f6fe6</span>
-                            <span class="code">mentorat_front/src/features/chat/frameFlot/index.tsx</span>
+                            <span class="code">mentorat_front/public/icon-send.svg</span>
                             <span class="code">
-                                <span class="snippet additions">++10</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -639,14 +639,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">// "use client";<br /></span><span class="token prefix inserted">+</span><span class="token line">// import React from "react";<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">// export const FrameFlot: React.FC = () =&gt; {<br /></span><span class="token prefix inserted">+</span><span class="token line">//     return (<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">//     )<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">// }</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M8.74952 11.2501L17.4995 2.50005M8.85584 11.5234L11.0459 17.1551C11.2389 17.6512 11.3353 17.8993 11.4743 17.9717C11.5948 18.0345 11.7384 18.0346 11.859 17.9719C11.998 17.8997 12.0948 17.6517 12.2883 17.1558L17.7803 3.08272C17.955 2.63507 18.0423 2.41124 17.9945 2.26822C17.953 2.14401 17.8556 2.04654 17.7314 2.00504C17.5883 1.95726 17.3645 2.04461 16.9169 2.2193L2.84373 7.71125C2.34784 7.90477 2.09989 8.00153 2.02763 8.14062C1.96499 8.26119 1.96508 8.40474 2.02786 8.52523C2.10028 8.66424 2.34834 8.7607 2.84446 8.95364L8.47613 11.1437C8.57684 11.1829 8.62719 11.2025 8.66959 11.2327C8.70717 11.2595 8.74004 11.2924 8.76685 11.33C8.79709 11.3724 8.81667 11.4227 8.85584 11.5234Z" stroke="white" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 22:08:26 (timezone Atlantic/Reykjavik) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 23:09:05 (timezone Atlantic/Reykjavik) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
